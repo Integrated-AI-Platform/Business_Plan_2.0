@@ -36,6 +36,6 @@ The workflow of creating process automation will work as follows:
 > Benefits
 
 - **Security**: Enterprises can safely use LLM and other AI tools without the need to worry about exposing sensitive data to the outside world.
-- **Automation**: With a much easier way to automate processes within an enterprise, as well as access to hundreds of different AI models and APIs, enterprises can automate much of their work that is currently done by human employees, which can save a significant amount of money.
+- **Automation**: With a much easier way to automate processes within an enterprise, as well as access to hundreds of different AI models and APIs that allows almost any conceivable process automation for all general cases, enterprises can automate much of their work that is currently done by human employees, which can save a significant amount of money.
 - **Speed**: Because code can execute a task much faster than a human can, by automating a large portion of the enterprise's work, the enterprise can get work done significantly faster.
 - **Accuracy**: With secure access to enterprise data, LLM can produce much more accurate answers that are tailored towards the needs of the enterprise.
