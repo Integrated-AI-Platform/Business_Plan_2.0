@@ -10,6 +10,7 @@
 - Provides a centralized database for LLM to securely access company data for Q&A and automation purposes.
 - Provides a prompt to process automation workflow that can easily automate processes within an enterprise, such as repetitive office work, Q&A, data analysis tasks, and certain engineering tasks.
 - Process automation can be saved for repetitive usage in the future.
+- Because the process automation is based on LLM, all general cases of a task, not just specific cases, can be automated. This allows a much wider range of automation compared to existing process automation platforms.
 - The users have full ownership of the data that goes in and out of the platform.
 
 > Secure Access
