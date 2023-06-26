@@ -26,7 +26,7 @@ The workflow of creating process automation will work as follows:
 3. The LLM will generate the necessary code to execute each subtask and include any AI models or APIs required for the subtask.
 4. The process can be saved for future usage, where the process can be either triggered by events to fully automate a process or run multiple times at the user's request.
 5. If the process is heavily dependent on LLM, then the prompt itself can be saved for reuse in the future.
-To put it simply, the LLM handles both task planning and process automation, reducing the human effort to just prompting the request.
+_To put it simply, the LLM handles both task planning and process automation, reducing the human effort to just prompting the request._
 
 > Secure Data Storage
 
